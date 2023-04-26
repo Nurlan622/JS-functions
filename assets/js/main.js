@@ -16,9 +16,24 @@
 // alert(calc(Number(prompt("birinci eded")), Number(prompt("ikinci eded")), prompt("operator")));
 // ------------------------------------Task b--------------------------------------------------------
 
-function surName(name, surname, fathername) {
-
-}
+// var person={
+//     firstName:"Sabir",
+//     lastName:"Guliyev",
+//     fathername:"Mehti",
+// };
+// var method=prompt("Methodu daxil edin:");
+// person.name=function(method) {
+//     return this.firstName;    
+// };
+// person.surname=function(method){
+//     return this.lastName + " " + this.firstName;
+// };
+// person.fullname=function(method){
+//     return this.firstName[0] + "." + this.lastName + " " + this.fathername;
+// };
+//  console.log("Ad:" + person.name())
+//  console.log("Soyad,ad:" + person.surname())
+//  console.log("Ad,soyad,ata adi:" + person.fullname())
 
 // ------------------------------------Task c--------------------------------------------------------
 
